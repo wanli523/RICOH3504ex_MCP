@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "RICOH3504ex_MCP": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/wanli523/RICOH3504ex_MCP.git",
+        "main"
+      ]
+    }
+  }
+}
